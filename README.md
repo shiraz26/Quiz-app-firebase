@@ -1,7 +1,7 @@
 # Quiz-app-firebase
 # Jawan Pakistan
-#Saylani
-#Jawan-Pakistan
+# Saylani
+# Jawan-Pakistan
 firebase connectivity with quiz app
 <br> https://database-quizapp-final.web.app/
 <br>After downloading zip file , you can change your web app  firebase configuration as per your project. 
