@@ -6,3 +6,10 @@ changes will start from web app  firebase configuration in index.html file insid
 <br> var firebaseConfig { } in this  curly braces  you write your own configuration data and replace my data.<br>
   <br> Initialize Firebase firebase.initializeApp(firebaseConfig); this will remain same don't change this .
  <br> In firebase application , real time database you can change in rules part <br>
+ <br>   {
+ <br>  "rules": {
+  <br>   ".read": true,
+   <br>  ".write": true
+  <br> }
+ <br>}
+  <br>copy and paste this code in rules of real time database in firebase.
